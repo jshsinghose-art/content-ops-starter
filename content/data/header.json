@@ -27,7 +27,7 @@
             "links": [
                 {
                     "label": "PVC Compound",
-                    "url": "/",
+                    "url": "/pvc-compound",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
