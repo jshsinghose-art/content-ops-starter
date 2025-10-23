@@ -23,7 +23,7 @@
         },
         {
             "label": "Products",
-            "altText": "Dropdown",
+            "altText": "Products",
             "links": [
                 {
                     "label": "Dropdown item",
